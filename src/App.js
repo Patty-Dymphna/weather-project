@@ -18,7 +18,7 @@ return (
       <div className='LastFace'>
         <ul>
           <li>Humidity: 210</li>
-          <li>Wind: 38</li>
+          <li>Wind: 39</li>
           <li>Prescipation: Snowy</li>
           <li>Temperature: 10</li>
         </ul>
